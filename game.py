@@ -38,4 +38,4 @@ end_time = datetime.now()
 total_time = end_time - init_time
 # Mostramos ese tiempo en segundos.
 print(f"\n Tardaste {total_time.seconds} segundos.")
-print("usted hizo ",cont," correctas y ",times-cont," incorrectas.")
+print("Usted contesto ",cont," correctas y ",times-cont," incorrectas.")
